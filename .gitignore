@@ -1,0 +1,7 @@
+runs/
+*.backup
+.DS_Store
+*-prompt.txt
+*-result.md
+research-handoff.md
+problem.txt
